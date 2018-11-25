@@ -116,3 +116,6 @@ dmypy.json
 
 # IDE settings
 .idea/
+
+# current file
+current.py
